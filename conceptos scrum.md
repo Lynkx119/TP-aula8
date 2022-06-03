@@ -1,4 +1,4 @@
-# -La8TrabajoPractico
+# -Aula 8: Trabajo Practico
 
 Artefactos 
 
