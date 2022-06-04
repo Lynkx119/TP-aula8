@@ -1,11 +1,23 @@
 # -Aula 8: Trabajo Practico
 
-Artefactos 
+# Scrum:
+
+Scrum es un marco de trabajo para desarrollo ágil de software que se ha expandido a otras industrias.
+
+Es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente, en equipo y obtener el mejor resultado posible de proyectos, caracterizado por:
+
+Adoptar una estrategia de desarrollo incremental, en lugar de la planificación y ejecución completa del producto.
+
+Basar la calidad del resultado más en el conocimiento tácito de las personas en equipos auto organizados, que en la calidad de los procesos empleados.
+
+Solapar las diferentes fases del desarrollo, en lugar de realizar una tras otra en un ciclo secuencial o en cascada.
+
+# Artefactos 
 
 Bajo el nombre de artefactos se conocen todos aquellos elementos que garantizan la transparencia y el registro de la información clave del proceso de
 Scrum. Es decir, son los recursos que sientan las bases para la calidad y la productividad de cualquier proyecto.
 
-Ceremonias
+# Ceremonias
  
 Las ceremonias de Scrum (a veces también llamadas “eventos Scrum”) son, por así decirlo, reuniones que tienen lugar en las iteraciones o Sprints 
 contemplados dentro de la metodología Scrum, y son una parte importante del progreso de cualquier proyecto.
@@ -28,7 +40,7 @@ finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no h
 en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que
 debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
 
-Roles
+# Roles
 
 1.- Product Owner (Dueño del Producto)
 Tiene la responsabilidad de decidir qué trabajo necesita hacerse y maximizar el valor del producto o proyecto que esté llevando a cabo.
