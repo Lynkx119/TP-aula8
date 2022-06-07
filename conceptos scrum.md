@@ -67,21 +67,33 @@ contemplados dentro de la metodología Scrum, y son una parte importante del pro
 
 Ceremonias que se realizan a lo largo del proyecto:
 
-● Sprint Planning Meeting (reunión de planificación del sprint). Se produce al iniciar cada
-Sprint y tiene por objetivo decidir que se va a realizar en el Sprint.
+● Sprint Planning Meeting (reunión de planificación del sprint): Se produce al iniciar cada
+Sprint y participa el equipo de Scrum al completo; sirve para inspeccionar el Backlog del Producto (Product Backlog) y que el equipo de desarrollo seleccione los Items en los que va a trabajar durante el siguiente Sprint. Estos Items son los que componen el Sprint Backlog.
 
-● Daily Scrum Meeting (reunión periódica). Se produce diariamente, y tiene un máximo de
-20 min. de duración. Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y
-qué problemas se han encontrado, esto a fines de encontrar soluciones en la diaria.
+● Daily Scrum Meeting (reunión periódica): Se produce diariamente, y tiene un máximo de
+20 min. de duración. En esta reunión todas y cada una de las personas del Development Team responden a las siguientes preguntas:
+ ¿Qué hice ayer para contribuir al Spring Goal?
+ ¿Que voy a hacer hoy para contribuir al Spring Goal?
+ ¿Tengo algún impedimento que me impida entregar?
 
-● Sprint Review Meeting (reunión de revisión del Sprint). Se produce al finalizar el Sprint y
-tiene por objeto mostrar qué es lo que se ha completado y qué no. Debe estar presente el
-Product Owner.
+● Sprint Review Meeting (reunión de revisión del Sprint): Se produce al finalizar el Sprint y
+tiene por objeto mostrar qué es lo que se ha completado y qué no a los stakeholders. Debe estar presente el
+Product Owner.  En esta reunión organizada por el product owner se estudia cuál es la situación 
+y se actualiza el Product Backlog con las nuevas condiciones que puedan afectar al negocio.
+El Development Team tiene que tener un papel importante en esta reunión. Muchas veces no es el product owner quien demuestra el incremento producido, 
+sino que son los propios miembros del Development Team quienes lo hacen. Es una buena práctica no sólo el que lo lleven a cabo,
+sino también el que lo hagan de forma rotatoria y, tras varios Sprints, hayan participado todos.
 
-● Sprint Retrospective Meeting (reunión de retrospectiva del Sprint). Se produce también al
+● Sprint Retrospective Meeting (reunión de retrospectiva del Sprint): Se produce también al
 finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no ha funcionado
 en el Sprint. La idea de dicha reunión es centrar al equipo en lo que salió bien y en lo que
 debe mejorar para la próxima iteración. De ninguna manera se centra en lo que salió mal.
+Este formato se puede facilitar pidiendo a los miembros del equipo Scrum que escriban notas –en post-its- para
+luego agruparlas y votar aquellos ítems más relevantes, dando la oportunidad a todos de hablar y expresar sus inquietudes.
+La duración recomendada por Scrum para un Sprint de 4 semanas es de un máximo de 3 horas, aunque habitualmente se destina entre 1 y 2 horas a este evento.
+
+● Sprint Grooming o Refinement: El refinamiento del Product Backlog es una práctica recomendada para asegurar que éste siempre esté preparado. Esta ceremonia sigue un patrón similar al resto y tiene una agenda fija específica en cada Sprint. Se estima su duración en 2 horas máximo por semana del Sprint. Es responsabilidad del product owner agendar, gestionar y dirigir esta reunión. 
+Los participantes de esta reunión son todo el equipo Scrum, así como cualquier recurso adicional que considere necesario el PO y que pueda contribuir a aclarar el requerimiento. Es necesario, por tanto, que antes de la reunión todos conozcan los requerimientos o historias de usuario que van a ser tratados en la misma y sólo asistan aquellos cuya presencia sea estrictamente relevante.
 
 # Roles
 
