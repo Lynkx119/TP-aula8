@@ -82,7 +82,7 @@ Product Owner.  En esta reunión organizada por el product owner se estudia cuá
 y se actualiza el Product Backlog con las nuevas condiciones que puedan afectar al negocio.
 El Development Team tiene que tener un papel importante en esta reunión. Muchas veces no es el product owner quien demuestra el incremento producido, 
 sino que son los propios miembros del Development Team quienes lo hacen. Es una buena práctica no sólo el que lo lleven a cabo,
-sino también el que lo hagan de forma rotatoria y, tras varios Sprints, hayan participado todos.
+sino también el que lo hagan de forma rotatoria y, tras varios Sprints, hayan participado todos.La revisión del sprint es una reunión de tipo informal  . El equipo realiza una demostración del producto y determinará cuáles están terminados y cuáles no. El propósito de la reunión de revisión del sprint es que el equipo muestre a los clientes y partes interesadas el trabajo que han realizado durante el sprint y lo comparen con el compromiso dado al comienzo del sprint.
 
 ● Sprint Retrospective Meeting (reunión de retrospectiva del Sprint): Se produce también al
 finalizar el Sprint y tiene por objeto documentar qué ha funcionado y qué no ha funcionado
