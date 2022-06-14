@@ -99,6 +99,9 @@ Los participantes de esta reunión son todo el equipo Scrum, así como cualquier
 
 1.- Product Owner (Dueño del Producto)
 Tiene la responsabilidad de decidir qué trabajo necesita hacerse y maximizar el valor del producto o proyecto que esté llevando a cabo.
+ El Product Owner procura que el equipo Scrum aporte valor al negocio en cuestión. Él representa a los stakeholders o a las partes interesadas.
+
+Se encarga de obtener el máximo valor posible al mínimo costo. También es el responsable de la cartera de productos, conocida como pila de producto o Product Backlog. Por esta razón, comprende las necesidades de los usuarios dentro del negocio.
 
 2.- El Scrum Master 
 actúa como un líder servicial, ayudando al equipo y a la organización a usar lo mejor posible  la Metodología Scrum, se focaliza en la parte de 
