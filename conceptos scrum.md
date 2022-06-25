@@ -70,8 +70,7 @@ Ceremonias que se realizan a lo largo del proyecto:
 ● Sprint Planning Meeting (reunión de planificación del sprint): Se produce al iniciar cada
 Sprint y participa el equipo de Scrum al completo; sirve para inspeccionar el Backlog del Producto (Product Backlog) y que el equipo de desarrollo seleccione los Items en los que va a trabajar durante el siguiente Sprint. Estos Items son los que componen el Sprint Backlog.
 
-● Daily Scrum Meeting (reunión periódica): Se produce diariamente, y tiene un máximo de
-20 min. de duración. En esta reunión todas y cada una de las personas del Development Team responden a las siguientes preguntas:
+● Daily Scrum Meeting (reunión periódica). Se produce diariamente, y tiene un máximo de 20 min. de duración. Tiene por objeto tratar qué es lo que se hizo, qué se va a hacer y qué problemas se han encontrado, esto a fines de encontrar soluciones en la diaria.  En esta reunión todas y cada una de las personas del Development Team responden a las siguientes preguntas:
  ¿Qué hice ayer para contribuir al Spring Goal?
  ¿Que voy a hacer hoy para contribuir al Spring Goal?
  ¿Tengo algún impedimento que me impida entregar?
