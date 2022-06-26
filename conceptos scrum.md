@@ -113,3 +113,6 @@ las que se comprometen al inicio de cada sprint. Sprint es una serie de periodos
 preferencia por los intervalos más cortos. En cada Sprint, el equipo construye y entrega un incremento del producto. Cada incremento es un 
 subconjunto del producto, reconocible y visualmente mejorado, que cumple con el criterio de aceptación y está construido con un nivel de 
 calidad llamado definición de terminado.
+
+El Team es un pequeño equipo de personas que incluye un Scrum Master, un Product Owner y los Developers. En este grupo, no hay sub-equipos ni jerarquías. Los profesionales son multifuncionales y tienen las habilidades necesarias para cumplir el objetivo del producto final.
+También deciden entre ellos quién hace qué, cuándo y cómo. Además, son los responsables de todo lo relacionado con el producto, desde colaborar con el cliente, hasta verificar su funcionamiento, el mantenimiento, la operación, la investigación y el desarrollo.
