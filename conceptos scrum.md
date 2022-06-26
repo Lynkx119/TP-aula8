@@ -106,6 +106,8 @@ Se encarga de obtener el máximo valor posible al mínimo costo. También es el 
 actúa como un líder servicial, ayudando al equipo y a la organización a usar lo mejor posible  la Metodología Scrum, se focaliza en la parte de 
 negocio y es responsable del ROI del proyecto. Traslada la visión del proyecto al equipo, formaliza las prestaciones en historias a incorporar en 
 el Product Backlog y las prioriza de forma regular.
+Scrum Master (o Facilitador/a)
+Es el o la responsable del cumplimiento de las reglas del marco scrum. Se asegura que estas son entendidas por la organización y de que se realiza el trabajo conforme a ellas. Elimina los obstáculos que impiden que se desarrolle el objetivo del sprint. Asesora y da la formación necesaria al propietario del producto y al equipo de desarrolladores.
 
 3.- Team (Equipo de Desarrollo) 
 Grupo de profesionales con los conocimientos técnicos necesarios y que desarrollan el proyecto de manera conjunta llevando a cabo las historias a 
