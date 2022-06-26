@@ -93,6 +93,8 @@ debe mejorar para la próxima iteración. De ninguna manera se centra en lo que 
 Este formato se puede facilitar pidiendo a los miembros del equipo Scrum que escriban notas –en post-its- para
 luego agruparlas y votar aquellos ítems más relevantes, dando la oportunidad a todos de hablar y expresar sus inquietudes.
 La duración recomendada por Scrum para un Sprint de 4 semanas es de un máximo de 3 horas, aunque habitualmente se destina entre 1 y 2 horas a este evento.
+Retrospectiva del sprint
+Después de cada sprint, se lleva a cabo una retrospectiva del sprint, en la cual todos los miembros del equipo dejan sus impresiones sobre el sprint recién superado. El propósito de la retrospectiva es realizar una mejora continua de la implementación de Scrum. Esta reunión tiene un tiempo fijo de cuatro horas.
 
 ● Sprint Grooming o Refinement: El refinamiento del Product Backlog es una práctica recomendada para asegurar que éste siempre esté preparado. Esta ceremonia sigue un patrón similar al resto y tiene una agenda fija específica en cada Sprint. Se estima su duración en 2 horas máximo por semana del Sprint. Es responsabilidad del product owner agendar, gestionar y dirigir esta reunión. 
 Los participantes de esta reunión son todo el equipo Scrum, así como cualquier recurso adicional que considere necesario el PO y que pueda contribuir a aclarar el requerimiento. Es necesario, por tanto, que antes de la reunión todos conozcan los requerimientos o historias de usuario que van a ser tratados en la misma y sólo asistan aquellos cuya presencia sea estrictamente relevante.
