@@ -49,13 +49,6 @@ SELECT * FROM perro;
 SELECT * FROM historial;
 
 
-#Consulta para perros con atencion anteriores a 2010
-SELECT CONCAT(d.nombre,' ',d.apellido) AS 'Dueño', p.nombre, h.descripcion, h.fecha
-FROM dueno AS d
-INNER JOIN (perro AS p INNER JOIN historial AS h ON p.id_perro=h.perroid)
-ON d.dni=p.dni_dueno
-WHERE h.fecha < '2010-01-01';
-
 #11
 SELECT distinct CONCAT(d.nombre,' ',d.apellido) AS 'Dueño', p.nombre, floor(DATEDIFF(now(),p.fecha_nac)/365) AS 'edad'
 FROM dueno AS d
